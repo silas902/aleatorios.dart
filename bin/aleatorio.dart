@@ -8,12 +8,12 @@ void main(){
 //ESTE GERA UM NUMERO ALEATORIO ENTRE 0 E ??.
 
 
-  var max = 5;
-  var min = 0;
+  var max = 10;
+  var min = 3;
   Random rnd = new Random();
   var numeroAleatorio2 = min + rnd.nextInt(max - min);
   print(numeroAleatorio2);
- // ESTE GERA UM NUMERO ALEATORIO ENTRE ?? ATE ??.
+ // ESTE GERA UM NUMERO ALEATORIO ENTRE 3 ATE 10.
 
 }
 
