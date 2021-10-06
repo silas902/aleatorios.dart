@@ -5,7 +5,7 @@ void main(){
   Random random = new Random();
   int numeroAleatorio = random.nextInt(50);
   print(numeroAleatorio);
-//ESTE GERA UM NUMERO ALEATORIO ENTRE 0 E ??.
+//ESTE GERA UM NUMERO ALEATORIO ENTRE 0 E 50.
 
 
   var max = 10;
